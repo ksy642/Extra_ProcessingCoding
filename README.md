@@ -8,3 +8,5 @@ FrogPePe 만들기
 (마우스 클릭마다 속도+-랜덤변경 , 끝에 도달하면 반대편으로 방향을 튼다) 
 
 4 different pictures
+
+함수 2개 사용 For Loop  (FrogPePe 연속 5)
