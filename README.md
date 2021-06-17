@@ -10,3 +10,5 @@ FrogPePe 만들기
 4 different pictures
 
 함수 2개 사용 For Loop  (FrogPePe 연속 5)
+
+태양계만들기 지구-달 관계 쎈스까지
